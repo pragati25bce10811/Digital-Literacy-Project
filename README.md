@@ -16,44 +16,23 @@ The project consists of five tasks covering different aspects such as digital aw
 ## Task 1 – Digital Literacy Awareness
 Created an infographic using an online tool to explain the concept of digital literacy, its importance, and safe internet practices. This task helped in understanding how to present information visually.
 
-📁 Folder: task-1-presentation/
-
 
 ## Task 2 – Digital Portfolio
 Created and updated professional profiles on platforms like GitHub, LinkedIn, and Kaggle. This task helped in building an online presence and understanding how these platforms are useful for career growth.
 
-📁 Folder: task-2-portfolio/
-
----
 
 ## Task 3 – Coding & Collaboration Platforms
 Completed a beginner coding challenge on a coding platform and created a Google Form for digital literacy awareness. This task improved coding practice and collaboration skills.
-Google Form link : https://docs.google.com/forms/d/e/1FAIpQLSce2i1kOnwCfhDkppylpeP53nMXt4Y8M9kuVxmia4cIrHFe8A/viewform?usp=header
 
-📁 Folder: task-3-platforms/
+Google Form link : https://docs.google.com/forms/d/e/1FAIpQLSce2i1kOnwCfhDkppylpeP53nMXt4Y8M9kuVxmia4cIrHFe8A/viewform?usp=header
 
 
 ## Task 4 – Email Etiquette
 Drafted professional emails and created a social media etiquette checklist. This task helped in learning proper communication and online behavior.
 
-📁 Folder: task-4-email-etiquette/
-
 
 ## Task 5 – Cybercrime Awareness
-Prepared a case study on cybercrime and created a prevention checklist. This task increased awareness about online threats and safety measures.
-
-📁 Folder: task-5-cybercrime/
-
-
-
-
-
-In task-3 I have created a Google form whose link I am attaching here and the lin can also be accessed in the file named task-3-platforms.
-Google form link : https://docs.google.com/forms/d/e/1FAIpQLSce2i1kOnwCfhDkppylpeP53nMXt4Y8M9kuVxmia4cIrHFe8A/viewform?usp=header
-
-
-
-
+Prepared a case study on cybercrime and created a prevention checklist. This task increased awareness about online threats and safety measure
 
 
 ## Conclusion
