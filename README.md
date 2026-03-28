@@ -36,5 +36,5 @@ Prepared a case study on cybercrime and created a prevention checklist. This tas
 
 
 ## Conclusion
-This project helped me improve my digital skills, understand professional cunication, and become more aware of online safety. It also helped in building a strong foundation for my future career.
+This project helped me improve my digital skills, understand professional communication, and become more aware of online safety. It also helped in building a strong foundation for my future career.
 
