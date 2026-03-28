@@ -25,7 +25,5 @@ I also created a Google Form quiz with multiple-choice and short-answer question
 ## Files Included
 - Screenshot of coding platform and completed challenge  
 - Screenshot of Google Form (questions)
-- Google form link also I have attached in this readme as well as in main readme
-- Google form link : https://docs.google.com/forms/d/e/1FAIpQLSce2i1kOnwCfhDkppylpeP53nMXt4Y8M9kuVxmia4cIrHFe8A/viewform?usp=header
 - Screenshot of Google Form responses  
-- Google Form link
+- Google Form link : https://docs.google.com/forms/d/e/1FAIpQLSce2i1kOnwCfhDkppylpeP53nMXt4Y8M9kuVxmia4cIrHFe8A/viewform?usp=header
