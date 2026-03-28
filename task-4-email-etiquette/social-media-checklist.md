@@ -1,14 +1,13 @@
 Do’s and Don’ts of Social Media 
 
-
-✅ Do’s:
+ Do’s:
 •	Use strong passwords and keep accounts secure
 •	Think before posting anything online
 •	Verify information before sharing
 •	Respect others and communicate politely
 •	Adjust privacy settings regularly
 
-❌ Don’ts:
+ Don’ts:
 •	Don’t share personal information publicly
 •	Don’t click on suspicious links
 •	Don’t spread fake news or rumors
