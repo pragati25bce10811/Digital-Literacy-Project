@@ -3,7 +3,7 @@
 ## Student Details
 - Name: Pragati Sachdeva
 - Registration Number: 25BCE10811
-- Branch: B.Tech CSE Core
+- Branch: CSE Core
 - Course: Digital Literacy(CSE0001)
 
 
