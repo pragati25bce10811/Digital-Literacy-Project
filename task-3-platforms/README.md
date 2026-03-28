@@ -23,7 +23,7 @@ I also created a Google Form quiz with multiple-choice and short-answer question
 - Understood how to create and manage Google Forms for collaboration  
 
 ## Files Included
-- Screenshot of coding platform and completed challenge  
+- Screenshot of completed challenge  
 - Screenshot of Google Form (questions)
 - Screenshot of Google Form responses  
 - Google Form link : https://docs.google.com/forms/d/e/1FAIpQLSce2i1kOnwCfhDkppylpeP53nMXt4Y8M9kuVxmia4cIrHFe8A/viewform?usp=header
